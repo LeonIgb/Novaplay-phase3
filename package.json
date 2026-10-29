@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@expo/vector-icons": "*",
+    "expo-status-bar": "*",
+    "expo-video": "*",
+    "expo-document-picker": "*",
+    "react-native-safe-area-context": "*",
+    "react-native-screens": "*",
+    "@react-navigation/native": "^7.0.0",
+    "@react-navigation/native-stack": "^7.0.0",
+    "expo-screen-orientation": "*",
+    "expo-navigation-bar": "*",
+    "react-native-gesture-handler": "*"
+  }
+}
